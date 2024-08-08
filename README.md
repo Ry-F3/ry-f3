@@ -1,7 +1,3 @@
-# Hi there, I'm Rhys Few 👋
-
-Welcome to my GitHub profile!
-
 ## About Me
 
 - 🔭 I’m currently working on [doji_lite_api](https://github.com/Ry-F3/doji_lite_api) - a trading journal platform - allowing users to upload csv files to view their trading statistics.
