@@ -40,7 +40,3 @@
 - [**Borglite**](https://github.com/Ry-F3/BorgLite): Python CLI game deployed on Heroku, featuring interactive gameplay and Google Sheets API for leaderboard.
 - [**Oku**](https://github.com/Ry-F3/Oku): Cryptocurrency calculator using HTML, CSS, and JavaScript, deployed on GitHub Pages.
 - [**Ai.img**](https://github.com/Ry-F3/ai-img): HTML/CSS website inspired by AI image generation, hosted on GitHub Pages.
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
