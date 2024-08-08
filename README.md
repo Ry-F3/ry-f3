@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on innovative software projects and contribute to open-source.
 - 🤔 I’m looking for help with platform security and custom dmomain intergration.
 - 💬 Ask me about Full-Stack Development, Python, Django, and web technologies.
-- 📫 How to reach me: [rhysfeew@gmail.com](mailto:rhysfeew@gmail.com) or [LinkedIn](www.linkedin.com/in/rhys-few)
+- 📫 How to reach me: [rhysfeew@gmail.com](mailto:rhysfeew@gmail.com).
 - ⚡ Fun fact: I enjoy building custom PCs and studying trading charts in my spare time.
 
 ## My Skills
