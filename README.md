@@ -16,25 +16,26 @@ Welcome to my GitHub profile!
 
 - 💻 **Programming Languages**:
 
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 - 🛠 **Tools & Technologies**:
 
-  - ![Django](https://img.shields.io/badge/-Django-092D39?logo=django&logoColor=white)
-  - ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-FF8C00?logo=django&logoColor=white)
-  - ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-  - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-  - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-  - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-  - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-  - ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+  ![Django](https://img.shields.io/badge/-Django-092D39?logo=django&logoColor=white)
+  ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-FF8C00?logo=django&logoColor=white)
+  ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
 
 - 🎨 **Design**:
-  - ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-  - ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-  - ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
-  - ![AJAX](https://img.shields.io/badge/-AJAX-005B96?logo=ajax&logoColor=white)
+
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+  ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
+  ![AJAX](https://img.shields.io/badge/-AJAX-005B96?logo=ajax&logoColor=white)
 
 ## Projects
 
