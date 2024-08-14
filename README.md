@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [doji_lite_api](https://github.com/Ry-F3/doji_lite_api) - a trading journal platform - allowing users to upload csv files to view their trading statistics.
 - 🌱 I’m currently learning AWS and exploring advanced Python frameworks.
 - 👯 I’m looking to collaborate on innovative software projects and contribute to open-source.
-- 🤔 I’m looking for help with platform security and custom dmomain intergration.
+- 🤔 I’m looking for help with platform security and custom domain intergration.
 - 💬 Ask me about Full-Stack Development, Python, Django, and web technologies.
 - 📫 How to reach me: [rhysfeew@gmail.com](mailto:rhysfeew@gmail.com).
 - ⚡ Fun fact: I enjoy building custom PCs and studying trading charts in my spare time.
